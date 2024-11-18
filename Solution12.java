@@ -1,4 +1,3 @@
-import java.util.*;
 /*
  * @Description:
  * ## 字符串相乘
